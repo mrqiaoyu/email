@@ -1,0 +1,19 @@
+{
+  "server": "smtp server",
+  "port": port,
+
+  "email": [
+    {
+      "email": "",
+      "nickname": ""
+    }
+  ],
+
+    "message": {
+      "title_from":"发件人title",
+      "title_to":"",
+      "title_head":"邮件标题",
+      "text":"邮件正文",
+      "html":"html格式的正文"
+    }
+}
